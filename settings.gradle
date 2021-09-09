@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Quiz_1911500518_Agung Ma'ruf_Spinner_AE"
